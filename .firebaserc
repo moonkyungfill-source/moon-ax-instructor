@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "feels-edutech-476903"
+  },
+  "targets": {
+    "feels-edutech-476903": {
+      "hosting": {
+        "portfolio": [
+          "moon-ax-instructor"
+        ]
+      }
+    }
+  }
+}
